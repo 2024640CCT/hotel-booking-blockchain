@@ -37,7 +37,7 @@ poster/       PowerPoint poster and video script
 ## Project Progress
 
 - [x] Repository setup
-- [ ] Design document
+- [x] Design document
 - [ ] Cryptography section and diagram
 - [ ] Smart contract
 - [ ] Testing and screenshots
