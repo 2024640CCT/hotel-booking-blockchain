@@ -38,7 +38,7 @@ poster/       PowerPoint poster and video script
 
 - [x] Repository setup
 - [x] Design document
-- [ ] Cryptography section and diagram
+- [x] Cryptography section and diagram
 - [ ] Smart contract
 - [ ] Testing and screenshots
 - [ ] Poster, video and scripts
